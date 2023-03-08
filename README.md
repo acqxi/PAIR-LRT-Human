@@ -4,7 +4,7 @@ This dataset contains pairs of thermal and RGB images captured using a FLIR Lept
 
 ## Usage
 
-This [dataset](https://drive.google.com/file/d/1lUef91s4XHzKy4L1s2aipRWMCyHEhAk7/view) can be used to generate corresponding color RGB images through thermal imaging. We used this dataset in our paper "*__Privacy-Preserving Video Conferencing via Thermal-Generative Images__*", and a result demo video can be found at [YouTube](https://youtu.be/angJdjjt3Fs)[^1].
+This [dataset](https://drive.google.com/file/d/1lUef91s4XHzKy4L1s2aipRWMCyHEhAk7/view).zip can be used to generate corresponding color RGB images through thermal imaging. We used this dataset in our paper "*__Privacy-Preserving Video Conferencing via Thermal-Generative Images__*", and a result demo video can be found at [YouTube](https://youtu.be/angJdjjt3Fs)[^1].
 
 ## Citation
 
