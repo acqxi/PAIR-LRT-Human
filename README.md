@@ -6,6 +6,10 @@ This dataset contains pairs of thermal and RGB images captured using a FLIR Lept
 
 This [dataset](https://drive.google.com/file/d/1lUef91s4XHzKy4L1s2aipRWMCyHEhAk7/view).zip can be used to generate corresponding color RGB images through thermal imaging. We used this dataset in our paper "*__Privacy-Preserving Video Conferencing via Thermal-Generative Images__*", and a result demo video can be found at [YouTube](https://youtu.be/angJdjjt3Fs)[^1].
 
+```bash
+conda run -n spadeSRpytorch python inference.py --cfg_path cfgs/SPADE_SR_64_G400_I200.yaml
+```
+
 ## Citation
 
 If you use this dataset in your research, please cite our paper:
